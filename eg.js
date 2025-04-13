@@ -1,4 +1,4 @@
-console.log('hiiii');
+//console.log('hiiii');
 setTimeout(()=>{
     console.log('eeeee');
 })
