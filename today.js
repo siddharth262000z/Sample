@@ -1,6 +1,6 @@
 console.log('1');
 async function firstPop() {
-    console.log('wow main');
+    console.log('wow mainq');
     
     let k = new Promise((res, rej) => {
         setTimeout(() => {
