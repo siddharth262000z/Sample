@@ -3,9 +3,9 @@ setTimeout(()=>{
     console.log('eeeee');
 })
 setTimeout(()=>{
-    console.log('3');
+    console.log('this is it');
     
-},2000)
+},1000)
 setTimeout(()=>{
     console.log('ssssssswwwww');
 })
