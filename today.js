@@ -13,5 +13,5 @@ async function firstPop() {
     console.log('lol main'); //main
     console.log('3');
 }
-
+console.log('wow feature');
 firstPop()
