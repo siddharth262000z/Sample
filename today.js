@@ -4,9 +4,7 @@ async function firstPop() {
     console.log('lll model');
     console.log(a);
     console.log(z);
-    console.log(popnext);
-    console.log(pop);
-    
+   console.log(newa);
     console.log('chow mainq'); //main
     
     let k = new Promise((res, rej) => {
