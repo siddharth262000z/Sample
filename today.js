@@ -2,7 +2,9 @@ console.log('1');
 async function firstPop() {
     console.log('wow mainq');
     console.log('lll model');
+    console.log(a);
     console.log('chow mainq'); //main
+    
     let k = new Promise((res, rej) => {
         setTimeout(() => {
             console.log('2');
