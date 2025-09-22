@@ -3,6 +3,7 @@ async function firstPop() {
     console.log('wow mainq');
     console.log('lll model');
     console.log(a);
+    console.log(z);
     console.log('chow mainq'); //main
     
     let k = new Promise((res, rej) => {
