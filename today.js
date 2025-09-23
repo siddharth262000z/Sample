@@ -2,7 +2,8 @@ console.log('1');
 async function firstPop() {
     console.log('wow mainq');
     console.log('lll model');
-    console.log(feature);
+    console.log(today)
+    console.log(yesterdayVscode);
     console.log('chow mainq'); //main
     
     let k = new Promise((res, rej) => {
