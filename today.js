@@ -4,7 +4,7 @@ async function firstPop() {
     console.log('lll model');
     console.log(a);
     console.log(z);
-    console.log(23)
+    console.log(0)
    console.log(newa);
     console.log('chow mainq'); //main
     
